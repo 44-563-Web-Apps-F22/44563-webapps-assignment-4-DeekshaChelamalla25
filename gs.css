@@ -18,3 +18,29 @@
     background-color: aquamarine;
     color: blueviolet;
 }
+.CHO{
+    color: black;
+    font-size: medium;
+    font-style: oblique;
+}
+.SILL{
+    color: black;
+    font-size: medium;
+    font-style: oblique;
+}
+.PRET{
+    color: black;
+    font-size: medium;
+    font-style: oblique;
+}
+table , td, th{
+    border: solid 1px;
+    color:blueviolet;
+    margin: 6px;
+    padding: 3px;
+    row-gap: 2px;
+    text-align: center;
+}
+tr:nth-child(odd){
+    background-color: chocolate;
+}
