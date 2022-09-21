@@ -1,0 +1,20 @@
+.speech{
+    font-style: normal ;
+    font-size: medium;
+    color: black;
+}
+.song{
+    font-style: italic;
+    font-size: larger;
+    color:black;
+}
+.direction{
+    font-style: normal;
+    font-size: small;
+    background-color: blanchedalmond;
+    color: black;
+}
+.direction:hover{
+    background-color: aquamarine;
+    color: blueviolet;
+}
