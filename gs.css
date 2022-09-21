@@ -44,3 +44,15 @@ table , td, th{
 tr:nth-child(odd){
     background-color: chocolate;
 }
+.CHO:hover{
+    text-shadow: 6px 2px 2px orange;
+    border-style: double;
+}
+.SILL:hover{
+    text-shadow: 4px 1px 1px palevioletred;
+    border-style: dotted;
+}
+.PRET:hover{
+    text-shadow: 7px 2px 2px burlywood;
+    border-style:dashed;
+}
