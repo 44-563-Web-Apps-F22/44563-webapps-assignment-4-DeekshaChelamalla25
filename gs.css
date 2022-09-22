@@ -56,3 +56,25 @@ tr:nth-child(odd){
     text-shadow: 7px 2px 2px burlywood;
     border-style:dashed;
 }
+ul.navbar-horizontal{
+    list-style-type: none;
+    margin: 20px;
+    padding: 0;
+}
+ul.navbar-horizontal li{
+    float: left;
+    background-color: palegreen;
+}
+ul.navbar-horizontal a{
+    color: black;
+    display: block;
+    padding: 15px;
+    margin: 10px;
+}
+ul.navbar-horizontal a:hover{
+    background-color: rgb(215, 190, 250);
+    color: rgb(20, 195, 220);
+}
+.icon{
+    float: right;
+}
